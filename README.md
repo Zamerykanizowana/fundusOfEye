@@ -1,2 +1,2 @@
 # fundusOfEye
-Project for Computer Science in Modisie on Poznan University of Technology.
+Project for Computer Science in Medicine on Poznan University of Technology.
